@@ -7,6 +7,8 @@ public class FindingTheCompoundInterest {
 		
 	double	CI = princ*(Math.pow((1+Rate/100), Time));
 	System.out.println("Compound interest:" +CI);
+	System.out.println("Compound interest:" +CI);
+
 	}
 
 }
